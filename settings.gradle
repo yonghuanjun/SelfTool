@@ -1,0 +1,3 @@
+rootProject.name='SelfTool'
+include ':app'
+include ':mytoollibrary'
