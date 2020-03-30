@@ -94,6 +94,7 @@ import java.util.regex.Pattern;
  * @版本 1.0
  */
 public class Tools {
+
     private static Toast toast;// 提示
     private static Handler handler = new Handler();// 控制线程
     private static boolean isShowDeBug = true;// 提示
