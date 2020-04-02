@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/tab_layout"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/space_56"
+    android:paddingTop="@dimen/space_2"
+    android:paddingBottom="@dimen/space_5"
+    >
+    <ImageView
+        android:layout_marginTop="4dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tab_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"/>
+    <TextView
+        android:visibility="gone"
+        android:layout_toRightOf="@+id/tab_icon"
+        android:layout_marginLeft="-10dp"
+        android:background="@drawable/boder_all_circular_red"
+        android:id="@+id/home_num_tv"
+        android:gravity="center"
+        android:textColor="@color/rsbColorThumbDefault"
+        android:text="0"
+        android:textSize="10sp"
+        android:layout_width="15dp"
+        android:layout_height="15dp" />
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tab_icon"
+        android:id="@+id/tab_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:lines="1"
+        android:layout_marginTop="2dp"
+        android:textColor="@drawable/tab_host_color_tv"
+        android:textSize="@dimen/space_10"/>
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="core_common_white">#ffffff</color>
+    <color name="core_common_black">#000000</color>
+    <color name="transparent40">#66000000</color>
+    <color name="core_common_divider_gray">#CCCCCC</color>
+    <color name="core_common_text_gray">#999999</color>
+    <color name="activity_title_center_text_black">#333333</color>
+    <color name="view_line">#EEEEEE</color>
+    <color name="login_verification_code">#3A3708</color>
+    <color name="login_protocol_code">#FDC141</color>
+    <color name="login_tv">#393608</color>
+    <color name="login_bc_tv">#FdF07a</color>
+    <color name="translucence">#33000000</color>
+    <color name="ColorLine">#E6E6E6</color>
+    <color name="mainColor">#4C480E</color>
+    <color name="text_color_6">#666666</color>
+    <color name="bc_color">#f7f7f7</color>
+    <color name="love_top_color">#fffcea</color>
+    <color name="guard_tv_color">#FF4646</color>
+    <color name="blue">#00AAEE</color>
+    <color name="colorActive">#00C9AE</color>
+    <color name="colorInactive">#9B9B9B</color>
+    <color name="transparent_background">#80000000</color>
+    <color name="transparent_background_90">#90000000</color>
+    <color name="rsbColorThumbDefault">#FFFFFF</color>
+    <color name="rsbColorThumbBorder">#FFD7D7D7</color>
+</resources>
